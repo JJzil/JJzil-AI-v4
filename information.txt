@@ -1,0 +1,1 @@
+Make sure to have Windows Defender exempting the stealer or the Anti Virus completely off or It will not open.}
